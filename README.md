@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itrail
-- 👀 I’m interested in acoustics/DSP/data science/machine learning
+- 👀 I’m interested in cybersecurity/data privacy/data science/acoustics/DSP/machine learning
 
 <!---
 itrail/itrail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
